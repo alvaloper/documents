@@ -18,13 +18,13 @@ defaults:
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  name: ByLuisEspinoza.co
+  email: ing.espinozalj@gmail.com
+  github: byluisespinoza
+  twitter: byluisespinoza
+  linkedin: byluisespinoza
+  pinterest: 
+  bio: Are you ready to turn your ideas into reality and build a wildly successful business? 
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml

@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: ByLuisEspinoza.co # top blog
+      title: ByLuisEspinoza.co | Blog # top blog
 
 description: Stylish Jekyll Theme
 author:

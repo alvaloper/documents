@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Configuration
-categories: [general, setup, demo]
-tags: [demo, dbyll, dbtek, setup]
+title: Donations
+categories: [home, donations]
+tags: [home, donations, paypal, bitcoin, cryptocurrency, crypto]
 fullview: true
 comments: true
 ---

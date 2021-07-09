@@ -4,6 +4,7 @@ title: Configuration
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
+comments: true
 ---
 
 In your config file change these settings

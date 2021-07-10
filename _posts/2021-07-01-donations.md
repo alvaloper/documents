@@ -2,7 +2,7 @@
 layout: post
 title: Donations
 categories: [home, donations]
-tags: [home, donations, paypal, bitcoin, cryptocurrency, crypto]
+tags: [home, donations, paypal, bitcoin, cryptocurrency, crypto, bymeacoffee]
 fullview: true
 comments: true
 ---
